@@ -9,7 +9,7 @@ Sentinel哨兵主要解决以下问题：
 
 哨兵配置如下：
 
-![img](https://github.com/CoinShine/coinshine.github.io/blob/master/media/picture/8.png)
+![img](media/picture/8.png)
 
 哨兵工作原理：
 
